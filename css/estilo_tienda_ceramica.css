@@ -1,0 +1,57 @@
+.container_info{
+    position: relative;
+    margin-top: 2%;
+    width: 70%;
+}
+
+
+.centro{
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10%;
+}
+
+.sangria{
+    text-align: center;
+    margin: 5%;
+    font-size: 20px;
+}
+
+.img_tres{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid rgb(63, 63, 73);
+}
+
+.tam_img{
+    width: 30%;
+    margin: 1%;
+}
+
+.margin_div{
+    margin-top: 10%;
+}
+
+.tam_img_ceramica{
+    width: 20%;
+    margin: 1%;
+    position: relative;
+    left: 10%;
+    
+}
+
+.h1_centro{
+    position: relative;
+    text-align: center;
+    font-size: 35px;
+    padding: 10px;
+    margin: 40px;
+}
+
+.parrafo_s{
+    font-size: 20px;
+    text-align: left;
+    margin: 40px;
+    
+}
