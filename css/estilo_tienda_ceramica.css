@@ -8,13 +8,14 @@
 .centro{
     position: relative;
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
+    margin: 10px;
 }
 
 .sangria{
     text-align: center;
     margin: 5%;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .img_tres{
@@ -54,4 +55,28 @@
     margin: 35px;
     
 }
+.contenedor_material_lista{
+    display: flex;
+    flex-wrap: nowrap;
+}
 
+.lista_li{
+    list-style: decimal;
+    font-size: 30px;
+}
+
+.tam_materiales{
+    width: 100%;
+    margin: 20%;
+    
+}
+
+.contenedor_material_lista_img{
+    position: relative;
+    left: 40;
+}
+
+.lista_li_boton{
+    list-style:disc;
+    font-size: 30px;
+}
